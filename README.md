@@ -1,6 +1,6 @@
 # DataScrape_linkedin
 
-##Warning Data Scraping from Linkedin isn't legal and this code serves only as an example to how it could be attempted.
+## Warning::: Data Scraping from Linkedin isn't legal and this code serves only as an example to how it could be attempted.
 Any attempt made with this or any other code to scrape data from linkedin is at your own risk.
 
 pulls data from profiels provided in a given file. 
